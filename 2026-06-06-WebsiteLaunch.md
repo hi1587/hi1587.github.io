@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Eclipse Up Website Launch"
+title: "Eclipse-Up-Website-Launch"
 date: 2026-06-06
 ---
 
